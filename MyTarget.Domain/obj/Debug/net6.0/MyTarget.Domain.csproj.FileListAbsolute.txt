@@ -1,0 +1,12 @@
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\bin\Debug\net6.0\MyTarget.Domain.deps.json
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\bin\Debug\net6.0\MyTarget.Domain.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\bin\Debug\net6.0\MyTarget.Domain.pdb
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.csproj.AssemblyReference.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.AssemblyInfoInputs.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.AssemblyInfo.cs
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.csproj.CoreCompileInputs.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\refint\MyTarget.Domain.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\MyTarget.Domain.pdb
+C:\Tiago\Particular\MyTarget\MyTarget.Domain\obj\Debug\net6.0\ref\MyTarget.Domain.dll
