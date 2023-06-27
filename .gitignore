@@ -1,0 +1,23 @@
+# Ignore os arquivos de sistema do Mac
+.DS_store
+
+# Ignore a pasta node_modules
+node_modules
+
+# Ignore todos os arquivos de texto
+*.txt
+
+# Ignore todos os arquivos dll
+*.dll
+
+# Ignore todos os arquivo pdb
+*.pdb
+
+# Ignore todos os arquivos cache
+*.cache
+
+# Ignore arquivos relacionados às chaves de API
+.env
+
+# Ignore arquivos de configuração de SASS
+.sass-cache
