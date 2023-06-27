@@ -1,0 +1,15 @@
+C:\Tiago\Particular\MyTarget\MyTarget.Data\bin\Debug\net6.0\MyTarget.Infra.Data.deps.json
+C:\Tiago\Particular\MyTarget\MyTarget.Data\bin\Debug\net6.0\MyTarget.Infra.Data.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Data\bin\Debug\net6.0\MyTarget.Infra.Data.pdb
+C:\Tiago\Particular\MyTarget\MyTarget.Data\bin\Debug\net6.0\MyTarget.Domain.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Data\bin\Debug\net6.0\MyTarget.Domain.pdb
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.csproj.AssemblyReference.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.AssemblyInfoInputs.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.AssemblyInfo.cs
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.csproj.CopyComplete
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\refint\MyTarget.Infra.Data.dll
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\MyTarget.Infra.Data.pdb
+C:\Tiago\Particular\MyTarget\MyTarget.Data\obj\Debug\net6.0\ref\MyTarget.Infra.Data.dll
